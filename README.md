@@ -16,6 +16,7 @@ I'm a graduate student in Computer Science at UIUC with a passion for building i
 
 ### Ongoing Projects (get hyped!)
 - **Coup Online**: Building an API server to host the RNN Coup Agent I made so that humans can play against it! For this I'm learning React, TypeScript, and CSS–stay tuned!
+- **AWS**: Sort of an extension of Coup Online, I'm exploring AWS and studying for the Cloud Practitioner certification to build a web app. Exciting!
 
 ---
 
@@ -30,6 +31,7 @@ I'm a graduate student in Computer Science at UIUC with a passion for building i
 
 ### Tools I Use! I love learning new things, so this list will be expanded
 - Python, PyTorch, SQL
+- Cloud Services (AWS)
 - ReactTS, CSS
 - Scikit-learn, pandas, seaborn, matplotlib  
 - PyMC, Bambi, Stan (Bayesian modeling)  
