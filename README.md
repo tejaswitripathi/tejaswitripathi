@@ -31,11 +31,10 @@ I'm a graduate student in Computer Science at UIUC with a passion for building i
 
 ### Tools I Use! I love learning new things, so this list will be expanded
 - Python, PyTorch, SQL
-- Cloud Services (AWS)
 - ReactTS, CSS
 - Scikit-learn, pandas, seaborn, matplotlib  
 - PyMC, Bambi, Stan (Bayesian modeling)  
-- Git, GitHub, AWS, Jupyter
+- AWS, Git, GitHub, Jupyter
 
 ---
 
