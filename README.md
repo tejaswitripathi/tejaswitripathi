@@ -1,7 +1,9 @@
 # Hi, I'm Tejaswi Tripathi :D
 
 ### About Me
-I'm a graduate student in Computer Science at UIUC with a passion for building intelligent systems that **reason, adapt, and learn**. My work spans **reinforcement learning, causal inference, and applied machine learning**, often with a focus on **real-world complexity**: imperfect information, adversarial environments, dynamic strategies, or messy behavioral data. But more importantly, I just love learning. I'm exploring web development and application development as you're reading this, and I hope to expand my knowledge even more.
+I'm a graduate student in Computer Science at UIUC with a passion for building intelligent systems that **reason, adapt, and learn**. My work spans **reinforcement learning, causal inference, and applied machine learning**, often with a focus on **real-world complexity**: imperfect information, adversarial environments, dynamic strategies, or messy behavioral data. 
+
+More importantly, though, I just love learning. I'm exploring web development and application development as you're reading this, and I hope to expand my knowledge even more.
 
 ---
 
