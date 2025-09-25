@@ -1,7 +1,7 @@
 # Hi, I'm Tejaswi Tripathi :D
 
 ### About Me
-I'm a graduate student in Computer Science at UIUC with a passion for building intelligent systems that **reason, adapt, and learn**. My work spans **reinforcement learning, causal inference, and applied machine learning**, often with a focus on **real-world complexity**: imperfect information, adversarial environments, dynamic strategies, or messy behavioral data.
+I'm a graduate student in Computer Science at UIUC with a passion for building intelligent systems that **reason, adapt, and learn**. My work spans **reinforcement learning, causal inference, and applied machine learning**, often with a focus on **real-world complexity**: imperfect information, adversarial environments, dynamic strategies, or messy behavioral data. But more importantly, I just love learning. I'm exploring web development and application development as you're reading this, and I hope to expand my knowledge even more.
 
 ---
 
@@ -16,6 +16,7 @@ I'm a graduate student in Computer Science at UIUC with a passion for building i
 
 ### Ongoing Projects (get hyped!)
 - **Coup Online**: Building an API server to host the RNN Coup Agent I made so that humans can play against it! For this I'm learning React, TypeScript, and CSS–stay tuned!
+- **Mortgage Web App**: Imagine if you could input your salary, a mortgage rate, and a down payment, and this website would tell you where you can afford to live. You could compare housing affordability across metro areas. Pretty cool, right?
 - **AWS**: Sort of an extension of Coup Online, I'm exploring AWS and studying for the Cloud Practitioner certification to build a web app. Exciting!
 
 ---
